@@ -7,11 +7,11 @@ Scrapy
 
 .. image:: https://img.shields.io/pypi/v/Scrapy.svg
    :target: https://pypi.python.org/pypi/Scrapy
-   :alt: PyPI Version
+   :alt: PyPI版本
 
 .. image:: https://img.shields.io/pypi/pyversions/Scrapy.svg
    :target: https://pypi.python.org/pypi/Scrapy
-   :alt: Supported Python Versions
+   :alt: 支持的Python版本
 
 .. image:: https://github.com/scrapy/scrapy/workflows/Ubuntu/badge.svg
    :target: https://github.com/scrapy/scrapy/actions?query=workflow%3AUbuntu
@@ -28,87 +28,81 @@ Scrapy
 
 .. image:: https://img.shields.io/badge/wheel-yes-brightgreen.svg
    :target: https://pypi.python.org/pypi/Scrapy
-   :alt: Wheel Status
+   :alt: Wheel状态
 
 .. image:: https://img.shields.io/codecov/c/github/scrapy/scrapy/master.svg
    :target: https://codecov.io/github/scrapy/scrapy?branch=master
-   :alt: Coverage report
+   :alt: 覆盖率报告
 
 .. image:: https://anaconda.org/conda-forge/scrapy/badges/version.svg
    :target: https://anaconda.org/conda-forge/scrapy
-   :alt: Conda Version
+   :alt: Conda版本
 
 
-Overview
+概述
 ========
 
-Scrapy is a BSD-licensed fast high-level web crawling and web scraping framework, used to
-crawl websites and extract structured data from their pages. It can be used for
-a wide range of purposes, from data mining to monitoring and automated testing.
+Scrapy是一个基于BSD许可的快速高级网络爬虫和网络抓取框架，用于爬取网站并从其页面中提取结构化数据。它可用于从数据挖掘到监控和自动化测试的各种目的。
 
-Scrapy is maintained by Zyte_ (formerly Scrapinghub) and `many other
-contributors`_.
+Scrapy由Zyte_（以前是Scrapinghub）和`许多其他贡献者`_ 维护。
 
 .. _many other contributors: https://github.com/scrapy/scrapy/graphs/contributors
 .. _Zyte: https://www.zyte.com/
 
-Check the Scrapy homepage at https://scrapy.org for more information,
-including a list of features.
+查看更多信息，请访问Scrapy主页 https://scrapy.org，了解其功能列表。
 
 
-Requirements
+要求
 ============
 
 * Python 3.8+
-* Works on Linux, Windows, macOS, BSD
+* 适用于Linux、Windows、macOS、BSD
 
-Install
+安装
 =======
 
-The quick way:
+快速安装方式：
 
 .. code:: bash
 
     pip install scrapy
 
-See the install section in the documentation at
-https://docs.scrapy.org/en/latest/intro/install.html for more details.
+有关更多详细信息，请查看文档中的安装部分 https://docs.scrapy.org/en/latest/intro/install.html。
 
-Documentation
+文档
 =============
 
-Documentation is available online at https://docs.scrapy.org/ and in the ``docs``
-directory.
+文档可在线查看 https://docs.scrapy.org/，也可在 ``docs`` 目录中找到。
 
-Releases
+发布
 ========
 
-You can check https://docs.scrapy.org/en/latest/news.html for the release notes.
+您可以查看 https://docs.scrapy.org/en/latest/news.html 了解发布说明。
 
-Community (blog, twitter, mail list, IRC)
+社区（博客、推特、邮件列表、IRC）
 =========================================
 
-See https://scrapy.org/community/ for details.
+请查看 https://scrapy.org/community/ 了解详情。
 
-Contributing
+贡献
 ============
 
-See https://docs.scrapy.org/en/master/contributing.html for details.
+请查看 https://docs.scrapy.org/en/master/contributing.html 了解详情。
 
-Code of Conduct
+行为准则
 ---------------
 
-Please note that this project is released with a Contributor `Code of Conduct <https://github.com/scrapy/scrapy/blob/master/CODE_OF_CONDUCT.md>`_.
+请注意，该项目遵循贡献者行为准则 `行为准则 <https://github.com/scrapy/scrapy/blob/master/CODE_OF_CONDUCT.md>`_。
 
-By participating in this project you agree to abide by its terms.
-Please report unacceptable behavior to opensource@zyte.com.
+通过参与该项目，您同意遵守其条款。
+请向 opensource@zyte.com 报告不可接受的行为。
 
-Companies using Scrapy
+使用Scrapy的公司
 ======================
 
-See https://scrapy.org/companies/ for a list.
+请查看 https://scrapy.org/companies/ 了解列表。
 
-Commercial Support
+商业支持
 ==================
 
-See https://scrapy.org/support/ for details.
+请查看 https://scrapy.org/support/ 了解详情。
